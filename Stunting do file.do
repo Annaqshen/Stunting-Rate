@@ -1,7 +1,8 @@
 
 
-************************Economic Development Final Paper do file***************************
-****************************** Deviana Dewi & Xiaoqiao Shen*********************************
+************************Economic Development Final Paper do file******************
+******************** Paper authors: Deviana Dewi & Xiaoqiao Shen******************
+******************************** Code author: Xiaoqiao Shen***********************
 clear
 cd "/Users/annashen/Desktop/Stata Practice/Stunting re-run"
 
